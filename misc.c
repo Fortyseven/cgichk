@@ -92,7 +92,7 @@ void breakup_url(	char *_url,
 		hasport = 1;
 	
 	if (t = (char *)index(u, '/'))						// does host have path?
-		(char *)haspath = 1;
+		haspath = 1;
 
 	if (hasport)
 		t = (char *)index(u, ':');
