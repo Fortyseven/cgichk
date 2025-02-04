@@ -11,3 +11,5 @@ How do you like that?! ;)
 
 
 **UPDATE:** Just had to peek inside the main file to get answer that one: nope, I forked this from a tool called "CGI Checker" by a dude named "su1d sh3ll".
+
+The original code was written by fdisk (me) in cooperation with a Chinese developer named CKS. Su1dSh3ll later forked the code from us and modified it but never gave the credit :'(
